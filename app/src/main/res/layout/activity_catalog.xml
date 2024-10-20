@@ -34,6 +34,8 @@
                 android:scaleType="centerCrop"
                 android:src="@drawable/taylor_swift"
                 android:contentDescription="@string/imageCard1"
+                android:clickable="true"
+                android:focusable="true"
                 app:layout_constraintTop_toTopOf="parent"
                 app:layout_constraintStart_toStartOf="parent"
                 app:layout_constraintEnd_toEndOf="parent" />

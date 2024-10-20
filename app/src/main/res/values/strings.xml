@@ -3,4 +3,22 @@
     <string name="imageCard1">Taylor Swift</string>
     <string name="imageCard2">John Mayer</string>
     <string name="imageCard3">Rhoma Irama</string>
+    <string name="title_activity_item_detail">ItemDetailActivity</string>
+    <string name="item_image">Item image</string>
+    <!-- Individual strings for the description -->
+    <string name="desc_si_taylor">
+        Taylor Swift is an American singer-songwriter born on December 13, 1989, in Reading, Pennsylvania. She began her career in country music with her self-titled debut album in 2006, gaining recognition for her storytelling ability and relatable lyrics. Swift\'s musical journey started at a young age, and she quickly established herself as a significant figure in the music industry.\n\n
+        Over the years, she transitioned from country to pop music, achieving immense commercial success with albums like \"1989\" (2014) and \"Reputation\" (2017). Her narrative style, often reflecting her personal experiences, explores themes of love, heartbreak, and personal growth. Notably, \"1989\" marked a significant shift in her musical direction and won the Grammy Award for Album of the Year.\n\n
+        Throughout her career, Taylor Swift has received numerous awards, including multiple Grammy Awards, American Music Awards, and Billboard Music Awards, making her one of the most awarded female artists in history. She is also recognized for her influence on the music industry and her advocacy for artists rights, particularly regarding issues of streaming and compensation.
+    </string>
+    <string name="desc_si_john">
+        John Mayer is an American singer-songwriter and guitarist born on October 16, 1977, in Bridgeport, Connecticut. He rose to prominence in the early 2000s with his unique blend of blues, rock, and pop music. Mayer began playing guitar at a young age and was heavily influenced by blues legends such as B.B. King, Eric Clapton, and Stevie Ray Vaughan.\n\n
+        Mayer\'s debut album, \"Room for Squares,\" released in 2001, featured hit singles like \"No Such Thing,\" \"Your Body Is a Wonderland,\" and \"Why Georgia.\" The album earned him critical acclaim and a Grammy Award for Best New Artist in 2003. His soulful guitar work, introspective lyrics, and smooth vocal style quickly garnered him a dedicated fan base.\n\n
+        Mayer\'s music often explores themes of love, heartbreak, and personal growth, reflecting his own life experiences and emotional depth. His candidness about his struggles with fame, relationships, and mental health has resonated with many fans, making him a relatable figure in the music industry.
+    </string>
+    <string name="desc_si_rhoma">
+        Rhoma Irama is a renowned Indonesian singer, songwriter, and actor, often referred to as the \"King of Dangdut.\" He was born on December 11, 1946, in Tasikmalaya, Indonesia. Rhoma is credited with popularizing the dangdut music genre, which blends traditional Indonesian music with influences from Indian and Arabic sounds.\n\n
+        Rhoma began his career in the 1970s, releasing his debut album, \"Hampa,\" which marked the start of his rise to fame. His distinctive voice and charismatic performances quickly resonated with audiences, and he became a prominent figure in Indonesian music. He is known for his powerful stage presence and ability to engage his fans, making him a beloved icon in the Indonesian music scene.\n\n
+        Rhoma\'s contributions to music and culture have earned him numerous awards and accolades, including recognition as one of Indonesia\'s most influential musicians. He continues to inspire new generations of musicians and fans alike, maintaining a significant presence in the Indonesian entertainment industry.
+    </string>
 </resources>
